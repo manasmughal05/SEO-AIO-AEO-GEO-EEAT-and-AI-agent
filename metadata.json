@@ -1,0 +1,11 @@
+{
+  "name": "AI Visibility Auditor",
+  "description": "Professional full-stack SaaS platform for deep SEO, AEO, AIO, GEO, and E-E-A-T audits, multi-page URL crawling, research center, and multilingual AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
